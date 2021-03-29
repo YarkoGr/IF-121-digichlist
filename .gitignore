@@ -1,0 +1,9 @@
+AWS-yaroslavpasko81-gmail-keys
+export
+.terraform
+.terraform.lock.hcl
+variable.tf
+terraform.tfstate
+terraform.tfstate.backup
+img
+.terraform.tfstate.lock.info
